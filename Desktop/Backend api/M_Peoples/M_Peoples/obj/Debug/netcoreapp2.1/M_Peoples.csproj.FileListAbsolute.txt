@@ -1,0 +1,14 @@
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\bin\Debug\netcoreapp2.1\M_Peoples.deps.json
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\bin\Debug\netcoreapp2.1\M_Peoples.runtimeconfig.json
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\bin\Debug\netcoreapp2.1\M_Peoples.runtimeconfig.dev.json
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\bin\Debug\netcoreapp2.1\M_Peoples.dll
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.csproj.CoreCompileInputs.cache
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.RazorAssemblyInfo.cache
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.RazorAssemblyInfo.cs
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.AssemblyInfoInputs.cache
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.AssemblyInfo.cs
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.RazorTargetAssemblyInfo.cache
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\bin\Debug\netcoreapp2.1\M_Peoples.pdb
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.csprojAssemblyReference.cache
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.dll
+C:\Users\45579480814\Desktop\Backend api\M_Peoples\M_Peoples\obj\Debug\netcoreapp2.1\M_Peoples.pdb
