@@ -1,0 +1,14 @@
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\bin\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.deps.json
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\bin\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.runtimeconfig.json
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\bin\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.runtimeconfig.dev.json
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\bin\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.dll
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.csprojAssemblyReference.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.csproj.CoreCompileInputs.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.RazorAssemblyInfo.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.RazorAssemblyInfo.cs
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.AssemblyInfoInputs.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.AssemblyInfo.cs
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.RazorTargetAssemblyInfo.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\bin\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.pdb
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.dll
+C:\Users\45579480814\Desktop\Backend api\Senai.WebApi.AutoPecasManha\Senai.WebApi.AutoPecasManha\obj\Debug\netcoreapp2.1\Senai.WebApi.AutoPecasManha.pdb

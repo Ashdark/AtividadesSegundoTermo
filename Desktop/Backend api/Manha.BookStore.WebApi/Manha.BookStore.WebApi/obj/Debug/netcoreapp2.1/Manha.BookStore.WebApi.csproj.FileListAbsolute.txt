@@ -1,0 +1,14 @@
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\bin\Debug\netcoreapp2.1\Manha.BookStore.WebApi.deps.json
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\bin\Debug\netcoreapp2.1\Manha.BookStore.WebApi.runtimeconfig.json
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\bin\Debug\netcoreapp2.1\Manha.BookStore.WebApi.runtimeconfig.dev.json
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\bin\Debug\netcoreapp2.1\Manha.BookStore.WebApi.dll
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.csprojAssemblyReference.cache
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.RazorAssemblyInfo.cache
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.RazorAssemblyInfo.cs
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.AssemblyInfoInputs.cache
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.AssemblyInfo.cs
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\bin\Debug\netcoreapp2.1\Manha.BookStore.WebApi.pdb
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.dll
+C:\Users\45579480814\Desktop\Backend api\Manha.BookStore.WebApi\Manha.BookStore.WebApi\obj\Debug\netcoreapp2.1\Manha.BookStore.WebApi.pdb

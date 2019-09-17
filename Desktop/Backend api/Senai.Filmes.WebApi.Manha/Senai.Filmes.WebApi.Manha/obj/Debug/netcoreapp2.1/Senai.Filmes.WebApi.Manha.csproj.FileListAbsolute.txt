@@ -1,0 +1,14 @@
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.deps.json
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.runtimeconfig.json
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.runtimeconfig.dev.json
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.dll
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.csprojAssemblyReference.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.csproj.CoreCompileInputs.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.RazorAssemblyInfo.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.RazorAssemblyInfo.cs
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.AssemblyInfoInputs.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.AssemblyInfo.cs
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.RazorTargetAssemblyInfo.cache
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.pdb
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.dll
+C:\Users\45579480814\Desktop\Backend api\Senai.Filmes.WebApi.Manha\Senai.Filmes.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Filmes.WebApi.Manha.pdb
